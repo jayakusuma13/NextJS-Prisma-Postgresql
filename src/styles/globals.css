@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.rounded-full {
+    height: 25px;
+    width: 25px,
+}
